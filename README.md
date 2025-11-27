@@ -9,7 +9,7 @@ int main()
 	cout << "plz enter the number of columns" << endl;
 	cin >> c;
 	for (int i = 1; i <= r; i++) {
-		for (int k = 1; k < c; k++) {
+		for (int k = 1; k <= c; k++) {
 
 			cout << i;
 		}
